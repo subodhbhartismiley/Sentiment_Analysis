@@ -1,4 +1,4 @@
-“import re
+import re
 import csv
 import numpy as np
 import tweepy
@@ -143,4 +143,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()  ”
+    main()  
